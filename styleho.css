@@ -1,0 +1,13 @@
+#nav-box:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+#know:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.image-para1>a:hover{
+    background-color: black;
+    color:  rgb(173, 240, 240);
+}
+.container a:hover{
+    border-bottom: 1px solid #efefef;
+}
